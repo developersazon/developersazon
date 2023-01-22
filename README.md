@@ -1,35 +1,127 @@
-### Hi there 👋
+<div align="center">
+<img src="https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/299528878_1462175850963809_3759654211073455323_n.jpg?stp=dst-jpg_p600x600&_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=KIOLWQcxox4AX-_mjzU&_nc_ht=scontent.fdac27-2.fna&oh=00_AfCsi86cccHqVxzYKknxbfYAmj8p0lHVrS0XAzK6pZelYg&oe=63D14867" align="center" style="width: 100%" />
+</div>  
+  
 
-<!--
-**developersazon/developersazon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">𓂀 🙋‍♂️ ℌ𝔦, 𝔗𝔥𝔦𝔰 𝔦𝔰 𝔖𝔞𝔷𝔬𝔫 𝔐𝔞𝔥𝔪𝔲𝔡, 𝔞 𝔣𝔲𝔩𝔩-𝔱𝔦𝔪𝔢 𝔚𝔢𝔟 𝔄𝔭𝔭𝔩𝔦𝔠𝔞𝔱𝔦𝔬𝔫 𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯.𓂀</div>  
+  
 
-Here are some ideas to get you started:
+🔰 𝙽𝚘𝚠,  𝙸 𝚊𝚖 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚊𝚜 𝚊 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚊𝚝 [Soft Tech Innovation Limited.](https://softbd.com/)  
+  
 
-# 💫 About Me:
-- 🙋‍♂️ Hi, This is Sazon Mahmud, a full-time Web Application Developer.<br>
-- 🌱 I am always excited to learn new things & also keep trying to explore something thing.<br>
-- 🤔 At present, I am working on PHP & Laravel.
--->
+🔰 𝙰𝚝 𝚙𝚛𝚎𝚜𝚎𝚗𝚝, 𝙸 𝚊𝚖 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝙿𝙷𝙿 & 𝙻𝚊𝚛𝚊𝚟𝚎𝚕 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎.  
+  
+
+🔰 𝙰𝚕𝚠𝚊𝚢𝚜 𝚎𝚡𝚌𝚒𝚝𝚎𝚍 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚗𝚎𝚠 𝚊𝚗𝚍 𝚝𝚛𝚢 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚗𝚎𝚠 𝚝𝚑𝚒𝚗𝚐𝚜.  
+  
+
+🔰 𝚃𝚊𝚔𝚎 𝚊 𝚝𝚘𝚞𝚛 𝚘𝚏 𝚖𝚢 🔗 [Blog Website](https://blog.sazonmahmud.net/)  
+  
+
+❓ 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝  𝚆𝚘𝚛𝚍𝙿𝚛𝚎𝚜𝚜, 𝙿𝙷𝙿 & 𝙻𝚊𝚛𝚊𝚟𝚎𝚕 ...  
+  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=developersazon&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/> 
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sazon.Mahmud1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sazon_mahmud) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sazonmahmud1) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Sazon_Mahmud) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sazon_mahmud1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@SazonMahmud) 
+## 📈 ꧁༺ 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼 ༻꧂ 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=developersazon&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rafathossain&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rafathossain&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafathossain&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rafathossain&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=sazon_mahmud1)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+## ✍️ ꧁༺ 𝓡𝓮𝓬𝓮𝓷𝓽 𝓑𝓵𝓸𝓰 𝓟𝓸𝓼𝓽𝓼 ༻꧂  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<br/>  
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+
+### 👉 ꧁༺ 𝓕𝓸𝓵𝓵𝓸𝔀 𝓜𝓮 𝓲𝓷 𝓢𝓸𝓬𝓲𝓪𝓵 𝓜𝓮𝓭𝓲𝓪 ༻꧂  
+<div align="center">
+<a href="https://github.com/developersazon" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/Sazon.Mahmud1" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/sazonmahmud1" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/sazon_mahmud1" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dribbble.com/Sazon_Mahmud" target="_blank">
+<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/@SazonMahmud" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/sazon_mahmud" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
+## ꧁༺ 𝓜𝔂 𝓢𝓴𝓲𝓵𝓵𝓼 ༻꧂ 
+<table><tr><td valign="top" width="30%">
+
+
+
+### 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝  
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>  
+<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" /></a>  
+</div>
+
+</td><td valign="top" width="30%">
+
+
+
+### 𝐁𝐚𝐜𝐤𝐞𝐧𝐝  
+<div align="center">  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="25" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
+</div>
+
+</td><td valign="top" width="30%">
+
+
+
+### 𝐃𝐞𝐯𝐎𝐩𝐬  
+<div align="center">  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
