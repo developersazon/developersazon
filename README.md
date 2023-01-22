@@ -53,6 +53,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 
 ### 👉 ꧁༺ 𝓕𝓸𝓵𝓵𝓸𝔀 𝓜𝓮 𝓲𝓷 𝓢𝓸𝓬𝓲𝓪𝓵 𝓜𝓮𝓭𝓲𝓪 ༻꧂  
+<br/> <br/> 
 <div align="center">
 <a href="https://github.com/developersazon" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -78,9 +79,6 @@ If things goes well, this section should automatically be replaced by a list of 
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 
 ## ꧁༺ 𝓜𝔂 𝓢𝓴𝓲𝓵𝓵𝓼 ༻꧂ 
