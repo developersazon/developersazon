@@ -1,5 +1,5 @@
  <div align="center">
-<img src="https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/299528878_1462175850963809_3759654211073455323_n.jpg?stp=dst-jpg_p600x600&_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=rtYZ-CTsmB0AX8oIcGd&_nc_ht=scontent.fdac27-2.fna&oh=00_AfB-LJV4ITB5paeZjeBAPLvEKWPGzMljUmTGVxzuoLaTvw&oe=643428E7" align="center" style="width: 100%" />
+<img src="[153957](https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/299528878_1462175850963809_3759654211073455323_n.jpg?stp=dst-jpg_p600x600&_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGg5yDH8VgEFkbHinfGEr8TSm3vZEAuZhVKbe9kQC5mFW6UOJ11DBvL-LnAPKiCFocAZH_7ArKmK1A6N_IHmXUc&_nc_ohc=smnowcVzuU8AX-aGJwx&_nc_ht=scontent.fdac27-2.fna&oh=00_AfAKbyVaUtGXh6EqXI8t88oesktKlG1rUl0M0be4-HH46A&oe=64BE9667)" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">𓂀 🙋‍♂️ ℌ𝔦, 𝔗𝔥𝔦𝔰 𝔦𝔰 𝔖𝔞𝔷𝔬𝔫 𝔐𝔞𝔥𝔪𝔲𝔡, 𝔞 𝔣𝔲𝔩𝔩-𝔱𝔦𝔪𝔢 𝔚𝔢𝔟 𝔄𝔭𝔭𝔩𝔦𝔠𝔞𝔱𝔦𝔬𝔫 𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯.𓂀</div>  
