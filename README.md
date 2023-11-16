@@ -1,5 +1,5 @@
  <div align="center">
-<img src="https://media.licdn.com/dms/image/D5616AQGyLbQfHCYZbQ/profile-displaybackgroundimage-shrink_350_1400/0/1667632774016?e=1696464000&v=beta&t=2-lrQZ_bNIJ7nmU9EB0JWdoyw2Ymblue7gODoByrqfo" align="center" style="width: 100%" />
+<img src="https://media.licdn.com/dms/image/D5616AQGyLbQfHCYZbQ/profile-displaybackgroundimage-shrink_200_800/0/1667632775716?e=2147483647&v=beta&t=Ogb1Rkg72TVkBf2vONIVWuoiWNbg61SsJdixylQ-hFI" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">𓂀 🙋‍♂️ ℌ𝔦, 𝔗𝔥𝔦𝔰 𝔦𝔰 𝔖𝔞𝔷𝔬𝔫 𝔐𝔞𝔥𝔪𝔲𝔡, 𝔞 𝔣𝔲𝔩𝔩-𝔱𝔦𝔪𝔢 𝔚𝔢𝔟 𝔄𝔭𝔭𝔩𝔦𝔠𝔞𝔱𝔦𝔬𝔫 𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯.𓂀</div>  
