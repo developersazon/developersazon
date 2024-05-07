@@ -10,7 +10,9 @@
   
 🔰 𝙰𝚕𝚠𝚊𝚢𝚜 𝚎𝚡𝚌𝚒𝚝𝚎𝚍 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚗𝚎𝚠 𝚊𝚗𝚍 𝚝𝚛𝚢 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚗𝚎𝚠 𝚝𝚑𝚒𝚗𝚐𝚜.  
   
-🔰 𝚃𝚊𝚔𝚎 𝚊 𝚝𝚘𝚞𝚛 𝚘𝚏 𝚖𝚢 🔗 [Blog Website](https://blog.sazonmahmud.net/)  
+🔰 𝚃𝚊𝚔𝚎 𝚊 𝚝𝚘𝚞𝚛 𝚘𝚏 𝚖𝚢 🔗 [Blog Website](https://blog.sazonmahmud.com/)  
+
+🔰 𝚃𝚊𝚔𝚎 𝚊 𝚝𝚘𝚞𝚛 𝚘𝚏 𝚖𝚢 🔗 [Portfolio Website](https://portfolio.sazonmahmud.com/)  
   
 ❓ 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝  𝚆𝚘𝚛𝚍𝙿𝚛𝚎𝚜𝚜, 𝙿𝙷𝙿 & 𝙻𝚊𝚛𝚊𝚟𝚎𝚕 ...  
   
